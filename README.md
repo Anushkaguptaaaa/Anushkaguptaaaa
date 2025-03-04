@@ -2,8 +2,7 @@
 
 
 # Hello World!, I'm Anushka, a full stack Developer 👋🏼:
-🛜 currently working on my project kahu!<br>👨🏼‍🎓 studying computer science at DIT 💻University, Dehradun<br> Navigating through the tech world.<br>
-👩🏻‍💻👾Open Source contributor.
+🛜 currently working on my project kahu!<br>👨🏼‍🎓 studying computer science at DIT University, Dehradun<br>💻 Navigating through the tech world.<br>👩🏻‍💻👾Open Source contributor.
 
 
 
