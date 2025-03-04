@@ -1,7 +1,5 @@
-<video width="640" height="360" controls>
-    <source src="banner.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+<img src="banner.gif" alt="GIF Description">
+
 
 # Hello World!, I'm Anushka, a full stack Developer 👋🏼:
 🛜 currently working on my project kahu!<br>👨🏼‍🎓 studying computer science at DIT University, Dehradun<br> Navigating through the tech world.
