@@ -1,7 +1,7 @@
 <img src="banner.gif" alt="GIF Description">
 
 
-# Hello World!, I'm Anushka, a full stack Developer 👋🏼:
+# Hello World! I'm Anushka, a full stack Developer 👋🏼
 👨🏼‍🎓 Studying computer science at DIT University, Dehradun.<br>💻 Navigating through the tech world.<br>👩🏻‍💻👾Open Source contributor.
 
 
